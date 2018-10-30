@@ -1,6 +1,7 @@
 # Scrape Twitter Data for Data Analytics
 
 Just download the `.otd` file, import into [Octoparse](https://www.octoparse.com) - a free automatic web scraping tool.
+
 You can get the twitter data you want by simply clicking.
 
 ![twitter scraper_gif_1](https://github.com/octoparse/scrape-twitter-data/blob/master/1.gif)
